@@ -1,0 +1,10 @@
+@import '/src/styles.scss';
+
+.mat-checkbox {
+    margin-top: 7px;
+    margin-right: 10px;
+}
+
+th.mat-header-cell:first-of-type, td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type {
+    padding-left: 15px;
+}
